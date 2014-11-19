@@ -1,0 +1,12 @@
+c:\users\_\documents\visual studio 2013\Projects\AspNetMember\AspNetMember\bin\AspNetMember.dll.config
+c:\users\_\documents\visual studio 2013\Projects\AspNetMember\AspNetMember\bin\AspNetMember.dll
+c:\users\_\documents\visual studio 2013\Projects\AspNetMember\AspNetMember\bin\AspNetMember.pdb
+c:\users\_\documents\visual studio 2013\Projects\AspNetMember\AspNetMember\obj\Debug\AspNetMember.csprojResolveAssemblyReference.cache
+c:\users\_\documents\visual studio 2013\Projects\AspNetMember\AspNetMember\obj\Debug\AspNetMember.dll
+c:\users\_\documents\visual studio 2013\Projects\AspNetMember\AspNetMember\obj\Debug\AspNetMember.pdb
+C:\Users\Earth\Documents\Visual Studio 2013\Projects\AspNetMember\bin\AspNetMember.dll.config
+C:\Users\Earth\Documents\Visual Studio 2013\Projects\AspNetMember\bin\AspNetMember.dll
+C:\Users\Earth\Documents\Visual Studio 2013\Projects\AspNetMember\bin\AspNetMember.pdb
+C:\Users\Earth\Documents\Visual Studio 2013\Projects\AspNetMember\obj\Debug\AspNetMember.csprojResolveAssemblyReference.cache
+C:\Users\Earth\Documents\Visual Studio 2013\Projects\AspNetMember\obj\Debug\AspNetMember.dll
+C:\Users\Earth\Documents\Visual Studio 2013\Projects\AspNetMember\obj\Debug\AspNetMember.pdb
